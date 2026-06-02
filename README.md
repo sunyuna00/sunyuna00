@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Fatima 👋</h1>
-
 <h3 align="center">Junior Frontend Developer | React Developer</h3>
 
 <p align="center">
@@ -8,14 +6,14 @@ Passionate about building responsive, user-friendly web applications with React 
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Student at Tash-Kumyr Regional College
-- 🌍 Based in Bishkek, Kyrgyzstan
-- 🚀 Focused on React, TypeScript and Frontend Development
-- 🎨 Passionate about creating beautiful, responsive, and user-friendly websites
-- 📚 Continuously learning and improving through real-world projects
-- 🎯 Looking for Junior Frontend Developer opportunities
+- 🎓 Final-year student at Tash-Kumyr Regional College (expected graduation: next month)
+- 🖤 Based in Bishkek, Kyrgyzstan
+- 🖤 Focused on React, TypeScript and Frontend Development
+- 🖤 Passionate about creating beautiful, responsive, and user-friendly websites
+- 🖤 Continuously learning and improving through real-world projects
+- 🖤 Looking for Junior Frontend Developer opportunities
 
 ---
 
@@ -64,7 +62,7 @@ Passionate about building responsive, user-friendly web applications with React 
 
 ---
 
-## 🌐 Languages
+## 🖤 Languages
 
 - 🇰🇬 Kyrgyz — Native
 - 🇷🇺 Russian — B2
@@ -73,7 +71,7 @@ Passionate about building responsive, user-friendly web applications with React 
 
 ---
 
-## 📫 Contact Me
+## 🖤 Contact Me
 
 - 📧 Email: itxtoyif@gmail.com
 - 💬 Telegram: @sunyuna_n
@@ -82,4 +80,4 @@ Passionate about building responsive, user-friendly web applications with React 
 ---
 
 
-⭐ Always open to learning, collaboration and new opportunities.
+🖤 Always open to learning, collaboration and new opportunities.
