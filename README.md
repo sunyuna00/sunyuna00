@@ -13,7 +13,7 @@ Passionate about building responsive, user-friendly web applications with React 
 - 🎓 Student at Tash-Kumyr Regional College
 - 🌍 Based in Bishkek, Kyrgyzstan
 - 🚀 Focused on React, TypeScript and Frontend Development
-- 🔍 Interested in modern web technologies and software engineering
+- 🎨 Passionate about creating beautiful, responsive, and user-friendly websites
 - 📚 Continuously learning and improving through real-world projects
 - 🎯 Looking for Junior Frontend Developer opportunities
 
