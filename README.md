@@ -29,9 +29,19 @@ Passionate about building responsive, user-friendly web applications with React 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white)
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white)
+
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
+![Husky](https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 
 ### Styling
 
@@ -51,64 +61,6 @@ Passionate about building responsive, user-friendly web applications with React 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black)
-
----
-
-## 🚀 Featured Projects
-
-### 🎤 RS Tandem
-
-AI-powered interview preparation platform with:
-
-- 157 interview questions
-- 33 topics
-- Progress tracking
-- Achievements system
-- Personalized feedback
-
-🔗 https://rs-tandem.netlify.app/
-
----
-
-### 🧩 RSS Puzzle
-
-Interactive English learning application featuring:
-
-- 6 difficulty levels
-- Audio support
-- Progress tracking
-- Sentence-building exercises
-
-🔗 https://sunyuna00-rss-puzzle.netlify.app/
-
----
-
-### ⚡ Pokémon Search App
-
-React + TypeScript application with:
-
-- Pokémon API integration
-- Redux Toolkit
-- React Router
-- Theme switching
-- CSV export
-- Persistent state
-- Comprehensive testing
-
-🔗 https://class-components-sunyuna00.netlify.app/
-
----
-
-### 🐍 Snake Game
-
-Interactive browser game featuring:
-
-- Personalized player profiles
-- Score tracking
-- Responsive design
-- Clean user interface
-
-🔗 https://snake-game-sunyuna08.netlify.app/
 
 ---
 
